@@ -1,0 +1,1 @@
+console.log(`21 01 04- JS "Catch All" Practice`);
