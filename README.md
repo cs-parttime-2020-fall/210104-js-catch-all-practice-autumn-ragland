@@ -21,7 +21,7 @@ updateValue();
 
 Explain your answer below : 
 ```
-You answer here!
+Hello is output first because the value of `exampleVariable` is the string Hello when the log is run. World is output second because the value of `exampleVariable` is updated locally in the function to the string World. 
 ```
 
 ## Try Catch 
